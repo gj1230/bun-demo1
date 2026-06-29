@@ -5,7 +5,10 @@
       "Bash(bun start *)",
       "Bash(git add *)",
       "Bash(git commit -q -m ' *)",
-      "Bash(git push *)"
+      "Bash(git push *)",
+      "Bash(gh run *)",
+      "Bash(npm test *)",
+      "Bash(npm run *)"
     ]
   }
 }
