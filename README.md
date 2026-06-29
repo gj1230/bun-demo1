@@ -1,5 +1,7 @@
 # demo1
 
+[![CI](https://github.com/gj1230/bun-demo1/actions/workflows/ci.yml/badge.svg)](https://github.com/gj1230/bun-demo1/actions/workflows/ci.yml)
+
 To install dependencies:
 
 ```bash
