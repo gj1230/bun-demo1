@@ -1,1 +1,3 @@
-console.log("Hello via Bun!");
+import { greet } from "./greet";
+
+console.log(greet());
